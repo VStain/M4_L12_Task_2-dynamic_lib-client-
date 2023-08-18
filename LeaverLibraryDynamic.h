@@ -1,5 +1,5 @@
 #pragma once
-#ifdef M4_L12_Task_2(dynamic_lib+client)EXPORTS
+#ifdef M4_L12_Task_2(dynamic_lib)EXPORTS
 #define LEAVERLIBRARY_API __declspec(dllexport)
 #else
 #define LEAVERLIBRARY_API __declspec(dllimport)

@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "M4_L12_Task_2(dynamic_lib+client)", "M4_L12_Task_2(dynamic_lib+client).vcxproj", "{747F812F-77D5-4D0D-8DBE-69EABE3E681C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "M4_L12_Task_2(dynamic_lib)", "M4_L12_Task_2(dynamic_lib+client).vcxproj", "{747F812F-77D5-4D0D-8DBE-69EABE3E681C}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeaverClient", "..\LeaverClient\LeaverClient.vcxproj", "{EC7B1F14-6E9C-4C57-8E22-69346628D586}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "M4_L12_Task_2(LeaverClient)", "LeaverClient\LeaverClient.vcxproj", "{EC7B1F14-6E9C-4C57-8E22-69346628D586}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
